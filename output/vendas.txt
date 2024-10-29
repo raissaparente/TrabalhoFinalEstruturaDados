@@ -1,0 +1,1 @@
+Venda: Fruta: pera, Quantidade: 3, Preço Total: 6.00

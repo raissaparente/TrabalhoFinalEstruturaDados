@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/raissaparente/Documents/04.ADS/4 SEMESTRE/ESTRUTURA DE DADOS/AtividadeFinal_EstrDados_Raissa/output/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _buscarFruta, symObjAddr: 0x0, symBinAddr: 0x10000318C, symSize: 0x78 }
+  - { offsetInCU: 0xD2, offset: 0xD2, size: 0x8, addend: 0x0, symName: _buscarFruta, symObjAddr: 0x0, symBinAddr: 0x10000318C, symSize: 0x78 }
+  - { offsetInCU: 0x116, offset: 0x116, size: 0x8, addend: 0x0, symName: _cadastrarFruta, symObjAddr: 0x78, symBinAddr: 0x100003204, symSize: 0xB0 }
+  - { offsetInCU: 0x15B, offset: 0x15B, size: 0x8, addend: 0x0, symName: _listarFrutas, symObjAddr: 0x128, symBinAddr: 0x1000032B4, symSize: 0xC8 }
+  - { offsetInCU: 0x18D, offset: 0x18D, size: 0x8, addend: 0x0, symName: _alterarFruta, symObjAddr: 0x1F0, symBinAddr: 0x10000337C, symSize: 0xA0 }
+  - { offsetInCU: 0x1B1, offset: 0x1B1, size: 0x8, addend: 0x0, symName: _excluirFruta, symObjAddr: 0x290, symBinAddr: 0x10000341C, symSize: 0x158 }
+  - { offsetInCU: 0x1FF, offset: 0x1FF, size: 0x8, addend: 0x0, symName: _venderFruta, symObjAddr: 0x3E8, symBinAddr: 0x100003574, symSize: 0x14C }
+  - { offsetInCU: 0x25F, offset: 0x25F, size: 0x8, addend: 0x0, symName: _interfaceBuscarFruta, symObjAddr: 0x534, symBinAddr: 0x1000036C0, symSize: 0xB4 }
+  - { offsetInCU: 0x29F, offset: 0x29F, size: 0x8, addend: 0x0, symName: _interfaceCadastrarFruta, symObjAddr: 0x5E8, symBinAddr: 0x100003774, symSize: 0x124 }
+  - { offsetInCU: 0x2D2, offset: 0x2D2, size: 0x8, addend: 0x0, symName: _interfaceExcluirFruta, symObjAddr: 0x70C, symBinAddr: 0x100003898, symSize: 0x58 }
+  - { offsetInCU: 0x304, offset: 0x304, size: 0x8, addend: 0x0, symName: _interfaceVenderFruta, symObjAddr: 0x764, symBinAddr: 0x1000038F0, symSize: 0x80 }
+  - { offsetInCU: 0x344, offset: 0x344, size: 0x8, addend: 0x0, symName: _interfaceAlterarFruta, symObjAddr: 0x7E4, symBinAddr: 0x100003970, symSize: 0x64 }
+  - { offsetInCU: 0x384, offset: 0x384, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x848, symBinAddr: 0x1000039D4, symSize: 0x10C }
+...
