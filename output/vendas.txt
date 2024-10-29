@@ -1,1 +1,3 @@
 Venda: Fruta: pera, Quantidade: 3, Preço Total: 6.00
+Venda: Fruta: banana, Quantidade: 7, Preço Total: 7.00
+Venda: Fruta: morango, Quantidade: 4, Preço Total: 20.00
